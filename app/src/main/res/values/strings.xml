@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Persistencia1</string>
+    <string name="salvar">Salvar</string>
+    <string name="recuperar">Recuperar</string>
+    <string name="o_nome_salvo">O nome salvo é: </string>
+    <string name="criar_arquivo">Criar arquivo</string>
+    <string name="ler_arquivo">Ler arquivo</string>
+    <string name="arquivo_criado_com_sucesso">Arquivo criado com sucesso</string>
+</resources>
